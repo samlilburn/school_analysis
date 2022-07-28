@@ -1,5 +1,5 @@
 # school_analysis
---
+---
 Analysis using Anaconda and Jupyter 
 ## Overview of Project
 In this project, we used Anaconda and Jupyter to analyze school districts. 
