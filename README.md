@@ -23,5 +23,3 @@ Our results will display the affect of our analysis on the district summary, the
 
 ## Summary 
 Four large changes in our data seen after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are, first, a decrease in passing % displayed in the district summary. Second, we see a drastic decrease in Thomas High School’s passing % in the school summary. Third, we can observe all scores for ninth graders at Thomas High School being displayed as Nans. Finally, the fourth change we can see is in our scores by school spending,  where Thomas High School’s overall passing % drops 0.3%, using only grades ten through 12 to calculate their averages.
-![image](https://user-images.githubusercontent.com/95889360/181434196-bd71497a-ae6d-47fd-880b-029a0f50eb79.png)
-
