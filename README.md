@@ -10,7 +10,7 @@ Our results will display the affect of our analysis on the district summary, the
 * In our district summary, we can see that the overall passing percentage dropped from 65.2% to 64.9%. This can be explained by the removal of Thomas High School’s scores, which had a higher than average overall passing percentage. Interestingly, the average math score and average reading score remained the same, while the % passing math and % passing reading increased slightly. These changes can been seen below. 
 ![district_summary_before.png](district_summary_before.png)
 ![district_summary_after.png](district_summary_after.png)
-* In the school summary, we see a drastic change in Thomas High School’s scores after refactoring our code. Their overall passing % drops from 90.1% to 65.1% 
+* In the school summary, we see a drastic change in Thomas High School’s scores after refactoring our code. Their overall passing % drops from 90.1% to 65.1%. Below, we used the loc() method to print results for only Thomas High School displaying the aforementioned change. 
 
 * Before refactoring our data, Thomas High School was among the top schools is overall passing $. Now, we see that they have fallen to the median passing % for the school district. Before the refactoring they had the second highest overall passing % in the district. After refactoring, they are seventh.
 
