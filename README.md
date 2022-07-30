@@ -11,7 +11,8 @@ Our results will display the affect of our analysis on the district summary, the
 ![district_summary_before.png](district_summary_before.png)
 ![district_summary_after.png](district_summary_after.png)
 * In the school summary, we see a drastic change in Thomas High School’s scores after refactoring our code. Their overall passing % drops from 90.1% to 65.1%. Below, we used the loc() method to print results for only Thomas High School displaying the aforementioned change. 
-
+![school_summary_before.png](school_summary_before.png)
+![school_summary_after.png](school_summary_after.png)
 * Before refactoring our data, Thomas High School was among the top schools is overall passing $. Now, we see that they have fallen to the median passing % for the school district. Before the refactoring they had the second highest overall passing % in the district. After refactoring, they are seventh.
 
 * After replacing the scores of the ninth graders at Thomas High School with NaNs, we see that there are no longer math a reading scores displayed for ninth graders at Thomas High School. The other grades at Thomas High School and the other schools are unaffected.
